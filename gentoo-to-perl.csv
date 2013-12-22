@@ -1,0 +1,16 @@
+dev-lang/perl-5.10.1,DAPM/perl-5.10.1.tar.gz
+dev-lang/perl-5.12.3-r1,RJBS/perl-5.12.3.tar.gz
+dev-lang/perl-5.12.4,LBROCARD/perl-5.12.4.tar.gz
+dev-lang/perl-5.12.4-r1,LBROCARD/perl-5.12.4.tar.gz
+dev-lang/perl-5.12.4-r2,LBROCARD/perl-5.12.4.tar.gz
+dev-lang/perl-5.12.5,DOM/perl-5.12.5.tar.gz
+dev-lang/perl-5.14.1,JESSE/perl-5.14.1.tar.gz
+dev-lang/perl-5.14.1-r1,JESSE/perl-5.14.1.tar.gz
+dev-lang/perl-5.14.2,FLORA/perl-5.14.2.tar.gz
+dev-lang/perl-5.16.0,RJBS/perl-5.16.0.tar.gz
+dev-lang/perl-5.16.1,RJBS/perl-5.16.1.tar.gz
+dev-lang/perl-5.16.2,RJBS/perl-5.16.2.tar.gz
+dev-lang/perl-5.16.2-r1,RJBS/perl-5.16.2.tar.gz
+dev-lang/perl-5.16.3,RJBS/perl-5.16.3.tar.gz
+dev-lang/perl-5.18.1,RJBS/perl-5.18.1.tar.gz
+dev-lang/perl-5.8.8-r8,NWCLARK/perl-5.8.8.tar.gz
