@@ -32,7 +32,8 @@ my $csv = Text::CSV_XS->new({ binary => 1, eol => "$/" });
 my $wd = path($FindBin::Bin)->parent;
 my $upstreams = $wd->child('upstream-provides');
 my $tf = $upstreams->child($upstream_path)->absolute;
-my $ntf = path($tf . '.csv');
+my $ntf = $tf->child('upstream-provides.csv');
+$tf->mkpath;
 print "Writing " . $ntf->relative($wd) . "\n";
 
 my $wfh = $ntf->openw_utf8;
